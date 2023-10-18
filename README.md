@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Albina</h1>
 <h3 align="center">An enthusiastic front-end developer who absolutely loves coding and designing.</h3>
-<img align="center" alt="Coding" src="https://img.freepik.com/premium-vector/code-browser-icon-coding-element-cyber-security-icon-mobile-concept-web-apps-colored-code-browser-icon-can-be-used-web-mobile-vector-line-illustration_7280-8553.jpg?w=996">
-
-
+<h3 align="center"><img alt="Coding" height="400" src="https://img.freepik.com/premium-vector/code-browser-icon-coding-element-cyber-security-icon-mobile-concept-web-apps-colored-code-browser-icon-can-be-used-web-mobile-vector-line-illustration_7280-8553.jpg?w=996"/></h3>
 
 <h3 align="left">Connect with me:
 <a href="https://www.linkedin.com/in/albina-mels-49720443/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albina-mels-49720443/" height="30" width="40" /></a>
