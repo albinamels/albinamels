@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Albina</h1>
-<h3 align="center">An enthusiastic front-end developer who absolutely loves coding and creating amazing designs.</h3>
+<h3 align="center">An enthusiastic front-end developer who absolutely loves coding and designing.</h3>
 <img align="center" alt="Coding" src="https://img.freepik.com/premium-vector/code-browser-icon-coding-element-cyber-security-icon-mobile-concept-web-apps-colored-code-browser-icon-can-be-used-web-mobile-vector-line-illustration_7280-8553.jpg?w=996">
 
 
