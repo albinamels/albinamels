@@ -11,6 +11,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp    
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </a>&nbsp
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> </a>&nbsp
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
@@ -19,7 +21,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> </a>&nbsp   
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/> </a>&nbsp   
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*J3G3akaMpUOLegw0p0qthA.png" title="REST API" alt="REST API" width="70" height="40"/> </a>&nbsp   
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" title="Axios" alt="Axios" width="40" height="40" /> </a>&nbsp   
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">     
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>&nbsp 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp 
