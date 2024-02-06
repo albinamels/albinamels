@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/albina-mels-49720443/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/albina-mels-49720443/" height="20" width="80" /></a></h3>
   
-<h3 align="center"><img alt="Coding" height="240" src="https://img.freepik.com/premium-vector/code-browser-icon-coding-element-cyber-security-icon-mobile-concept-web-apps-colored-code-browser-icon-can-be-used-web-mobile-vector-line-illustration_7280-8553.jpg?w=996"/></h3>
+<h5 align="center"><img alt="Coding" height="240" src="https://img.freepik.com/premium-vector/code-browser-icon-coding-element-cyber-security-icon-mobile-concept-web-apps-colored-code-browser-icon-can-be-used-web-mobile-vector-line-illustration_7280-8553.jpg?w=996"/></h5>
 
 <h3 align="center">Tech Stack:</h3>
 </br>
@@ -48,11 +48,9 @@
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>       -->
 </div>
 </br>
+</br>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=albinamels&show_icons=true&locale=en" alt="albinamels" /></p>
 </br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=albinamels&show_icons=true&locale=en&layout=compact" alt="albinamels" /></p>
 
-<h3 align="center">Connect with me:
-
-</h3>
