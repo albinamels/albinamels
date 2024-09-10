@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/albina-mels-49720443/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/albina-mels-49720443/" height="20" width="80" /></a></h3>
   
-<h5 align="center"><img alt="Coding" height="240" src="https://img.freepik.com/premium-vector/code-browser-icon-coding-element-cyber-security-icon-mobile-concept-web-apps-colored-code-browser-icon-can-be-used-web-mobile-vector-line-illustration_7280-8553.jpg?w=996"/></h5>
+<h5 align="center"><img alt="Coding" height="500" src="https://img.freepik.com/free-vector/collection-designer-work_52683-18124.jpg?t=st=1725933174~exp=1725936774~hmac=691ee37b8ab7582f2055d3d760af72c73b308653a2341b0d65ad93eb23da0ec4&w=740"/></h5>
 
 <h3 align="center">Tech Stack:</h3>
 </br>
